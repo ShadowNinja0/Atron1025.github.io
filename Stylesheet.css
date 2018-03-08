@@ -6,12 +6,13 @@
         font-family: 'mina', sans-serif;
         font-size: 32px;
         text-decoration: underline;
+        float: middle;
       }
 
     * {
         font-family: 'mina', sans-serif;
         text-decoration: underline;
-        color: white;
+        color: #ffffff;
      
      
       }
