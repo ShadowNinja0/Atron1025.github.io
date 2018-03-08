@@ -4,15 +4,16 @@ body {
     }
 h1 { 
     font-family: 'mina', sans-serif;
-    font-size: 32px;
+    font-size: 64px;
     text-decoration: underline;
     text-align: center;
+    color: #ffffff;
       }
 
 h2 {
     font-family: 'mina', sans-serif;
     text-decoration: underline;
-    color: #fffffff;
+    color: #ffffff;
     
      
       }
