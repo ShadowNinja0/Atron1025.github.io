@@ -1,5 +1,4 @@
  @import url('https://fonts.googleapis.com/css?family=Mina');
-    font-size: 
     body {
     background-image: url("http://www.gsfdcy.com/data/img/81/2087513-sports-wallpaper.jpg");
     }
@@ -7,5 +6,12 @@
         font-family: 'mina', sans-serif;
         font-size: 32px;
         text-decoration: underline;
-        color: #ffffff;
+      }
+
+    * {
+        font-family: 'mina', sans-serif;
+        text-decoration: underline;
+        color: white;
+     
+     
       }
