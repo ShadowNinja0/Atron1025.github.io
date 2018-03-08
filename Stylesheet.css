@@ -1,18 +1,18 @@
  @import url('https://fonts.googleapis.com/css?family=Mina');
-    body {
-          background-image: url("http://www.gsfdcy.com/data/img/81/2087513-sports-wallpaper.jpg");
+body {
+    background-image: url("http://www.gsfdcy.com/data/img/81/2087513-sports-wallpaper.jpg");
     }
-   h1 { 
-        font-family: 'mina', sans-serif;
-        font-size: 32px;
-        text-decoration: underline;
-        float: middle;
+h1 { 
+    font-family: 'mina', sans-serif;
+    font-size: 32px;
+    text-decoration: underline;
+    float: middle;
       }
 
-    * {
-        font-family: 'mina', sans-serif;
-        text-decoration: underline;
-        color: #ffffff;
-     
+h2 {
+    font-family: 'mina', sans-serif;
+    text-decoration: underline;
+    color: #ffffff;
+    
      
       }
