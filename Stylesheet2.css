@@ -58,3 +58,18 @@ p  {
 	left: 15px;
 	
 }
+.column {
+           		float: bottom;
+           		padding: 15px
+           }
+.column img {
+           		float: right;
+           }
+.clearfix : :after {
+           		content: "";
+           		clear: both:
+            
+           }
+.content {
+           		width: 70%
+           }
