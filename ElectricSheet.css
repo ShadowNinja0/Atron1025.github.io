@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+* {
+	font-family: 'Lato', sans-serif;
+
+}
+h1 {
+	font-size: 80px;
+	color: white;
+	background-color: #222323;
+	text-shadow: -2.5px 0 #222323, 0 2.5px #222323, 2.5px 0 #222323, 0 -2.5px #222323;
+	padding: 50px;
+	text-align: center;
+	margin-right: 50px;
+	margin-left: 20px;
+	margin-top: 35px;
+}
+#links  a {
+	font-size: 21px;
+	line-height: 50px;
+	letter-spacing: 0.1px;
+	text-decoration: none;
+}
+li a {
+	display: block;
+	background-color: #222323;
+	color: white;
+	font-family: 'Lato', sans-serif;
+	text-shadow: -1px 0 #222323, 0 1px #222323, 1px 0 #222323, 0 1px #222323;
+}
+li a.active {
+	background-color: #4CAF50;
+    color: white;
+}	
+li a:hover:not(.active) {
+	background-color: #c7c9cc;
+	color: #1d1e21;
+	
+}
+ul {
+	list-style-type: none;
+	width: 220px;
+	margin-left: -20px;
+}
+body {
+	background-color: #FFFFFF;
+	opacity: 0.8px
+}
+p {
+	font-size: 21px;
+	left: 400px;
+	margin-top: -200px;
+	position: relative;
+}
+#Contact-Info h4{
+	margin-top: 210px;
+	margin-left: 10px;
+	color: white;
+	padding-top: 20px;
+	font-size: 20px;
+}
+img {
+	margin-left: 10px; 
+	padding-bottom: 10px;
+}	
+#Contact-Info  {
+	background-color: #222323;
+	margin-left: 20px;
+	margin-right: 50px;
+	position: relative;
+	
+}
